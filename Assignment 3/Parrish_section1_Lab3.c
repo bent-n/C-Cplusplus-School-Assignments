@@ -3,6 +3,12 @@
 // 09/09/14
 // Section 1
 
+
+/*Write a computer program in C which will simulate a
+calculator. Your calculator needs to support the five basic operations (addition, subtraction,
+multiplication, division and modulus) plus primality testing (natural number is prime if it has no
+non-trivial divisors).*/
+
 #include <stdio.h>
 main()
 {

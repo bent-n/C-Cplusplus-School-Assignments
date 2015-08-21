@@ -3,6 +3,10 @@
 // 09/26/14
 // Section 1
 
+/*Write a computer program in C which will generate an
+original ASCII-art picture, more specifically, a representation of your instructor
+Dr. Yampolskiy.*/
+
 
 # include <stdio.h>
 main()

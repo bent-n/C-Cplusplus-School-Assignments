@@ -3,6 +3,17 @@
 //Brandon Do
 //12/04/2014
 
+/*Ability to work in teams is essential for a successful
+career in computer science. Begin this lab by finding a partner who has completed lab#10. You
+can work with anyone registered for CECS130 from either Tuesday or Thursday lab section.
+Your assignment is to create (in the C++ programming language using good OOP principles
+(namespaces, etc.)) a Competition class which inherits from yours and your partner’s 3D TTT
+classes. Assuming both 3DTTT classes have a function which asks computer to make a move it
+should be possible with very little rewriting to create a competition between two computer
+players. Set it up so the two game bots play 10 games in a row against each other and a winner is
+determined and announced at the end of this competition. Give your computer players names
+which correspond to the names of the two programmers who created them.*/
+
 #include<iostream>
 #include<string>
 #include<time.h>

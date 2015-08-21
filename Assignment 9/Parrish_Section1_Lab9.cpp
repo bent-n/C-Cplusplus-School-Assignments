@@ -2,6 +2,15 @@
 //William Benton Parrish
 //11/3/2014
 
+/*In the C++ programming language write a program
+capable of playing Tic-Tac-Toe against the user. Your program should use OOP concepts in its
+design. You can use ASCII art to generate and display the 3x3 playing board. The program
+should randomly decide who goes first computer or user. Your program should know and inform
+the user if an illegal move was made (cell already occupied). The program should also announce
+if one of the players wins or if a draw is achieved. While it is desirable for your program to play
+a strong game, this is not an Artificial Intelligence course so if your program does not play at a
+world champion level you will not be penalized for it.*/
+
 #include<iostream>
 #include<string>
 #include<time.h>

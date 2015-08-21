@@ -2,6 +2,12 @@
 //William Benton Parrish
 //10/01/2014
 
+/*Write a program that uses an array of structures to hold
+contact information for your friends. The program should allow the user to enter as many friends
+as the user wants. Create functions to add or delete entries in the phone book and to print valid
+phone book entries. Do not display phone book entries that are invalid or NULL (0). You can
+assume that all people have unique names. Make sure you allocate and free memory as
+necessary.*/
 
 #include<stdio.h>
 #include<stdlib.h>

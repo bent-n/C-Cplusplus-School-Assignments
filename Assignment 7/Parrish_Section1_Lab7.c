@@ -2,6 +2,13 @@
 //William Benton Parrish
 //10/14/2014
 
+/*Add additional functionality to your phonebook program
+from lab# 6. Make it possible for users to:
+1) Alphabetically sort the list of entries by name (first or last).
+2) Find a phone number for a given name.
+3) Randomly select a friend from the phonebook for you to call.
+4) Delete everyone from the phonebook at the same time.*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>

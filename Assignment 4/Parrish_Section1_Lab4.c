@@ -2,6 +2,13 @@
 //William Benton Parrish
 //9/23/2014
 
+/*Re write your lab 3 calculator program using functions.
+Each mathematical operation in the menu should be represented by a separate function. In
+addition to all operations your calculator had to support in lab 3, please add additional
+functionality to your calculator. Include the ability to compute the factorial of an integer
+(Example: 4! = 1 * 2 * 3 *4 = 24), and an integer power of a number (Example: 5 3 = 5 * 5 * 5 = 125).
+Finally, add an interesting mathematical function of your choosing which computes the first n
+numbers of a sequence of numbers and utilizes an array to store the result before displaying it*/
 
 #include<stdio.h>
 //Function Prototypes

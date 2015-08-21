@@ -3,6 +3,12 @@
 // 09/02/14
 // Section 1
 
+/*Write a computer program in C which will request
+the user to enter a number representing the amount of foreign currency he/she would
+like to exchange. Your program should output a foreign currency conversion table for at
+least 6 different currencies, showing how much of each type of foreign currency can be
+obtained for the amount the user enters.*/
+
 #include <stdio.h>
 main()
 {
